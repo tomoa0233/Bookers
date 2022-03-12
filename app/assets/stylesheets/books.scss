@@ -1,4 +1,5 @@
 body{
+  width: 800px;
   margin: 33px;
   font-family: verdana, arial, helvetica, sans-serif;
       font-family: verdana, arial, helvetica, sans-serif;
@@ -6,11 +7,15 @@ body{
 }
 
 table{
-  width: 745px;
+  width: 700px;
 }
 
-tr{
-  // font-weight: bold;
+.box-left{
+  width: 200px;
+}
+
+.box-center{
+  width: 400px;
 }
 
 td{
